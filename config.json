@@ -6,8 +6,8 @@
     "footer": "WhatsApp Bot",
     "sessionName": "session",
     "pathimg": "./media/Haruka.jpg",
-    "gamewaktu": 90,
-    "limitCount": 25,
+    "gamewaktu": 30,
+    "limitCount": 999,
     "gcount": {
         "prem": 35,
         "user": 15
